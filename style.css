@@ -138,6 +138,11 @@ footer {
     align-items: center;
   }
 
+}
+nav > a.logo {
+  margin-right: 0; 
+}
+
   nav > a:not(:first-of-type) {
     margin-left: 0;
   }
@@ -162,4 +167,4 @@ footer {
   main > article {
     margin-bottom: 48px;
   }
-}
+
